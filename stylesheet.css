@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Quran';
+    src: url('Quran.eot');
+    src: url('Quran.eot?#iefix') format('embedded-opentype'),
+        url('Quran.woff2') format('woff2'),
+        url('Quran.woff') format('woff'),
+        url('Quran.ttf') format('truetype'),
+        url('Quran.svg#Quran') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
